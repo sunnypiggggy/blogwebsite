@@ -93,7 +93,7 @@ github链接 [github][1], blog链接[blog][2]
 print('shit happens!!')
 ```
 
-# 8. 
+# 8. sss
 
 
 # 9. 注解  
@@ -103,7 +103,8 @@ print('shit happens!!')
 [^quote2]: BBBB
 [^Xe]: CCCC
 
-# 10 LateX 公式
+# 10 LateX 公式  
+
 <http://detexify.kirelabs.org/classify.html>  
 
 $$\begin{equation}\label{eq1}
