@@ -93,7 +93,7 @@ github链接 [github][1], blog链接[blog][2]
 print('shit happens!!')
 ```
 
-# 8. sssx
+# 8. ss
 
 
 # 9. 注解  
