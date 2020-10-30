@@ -96,11 +96,11 @@ print('shit happens!!')
 
 
 #9. 注解
-引用 [quote1] 引用 [quote2] 引用3 [Xe]
+引用 [^quote1] 引用 [^quote2] 引用3 [^Xe]
 
-[quote1]: AAAA
-[quote2]: BBBB
-[Xe]: CCCC
+[^quote1]: AAAA
+[^quote2]: BBBB
+[^Xe]: CCCC
 
 #10 LateX 公式
 <http://detexify.kirelabs.org/classify.html>  
