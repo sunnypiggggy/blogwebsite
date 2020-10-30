@@ -102,11 +102,9 @@ print('shit happens!!')
 [^quote2]: BBBB
 [^Xe]: CCCC
 
-#10 LateX 公式
+# 10 LateX 公式
 <http://detexify.kirelabs.org/classify.html>  
 
-$$\sum_{i=1}^n a_i=0$$
-$$f(x_1,x_x,\ldots,x_n) = x_1^2 + x_2^2 + \cdots + x_n^2 $$
-$$\sum^{j-1}_{k=0}{\widehat{\gamma}_{kj} z_k}$$
-
-$$ x $$
+$$\begin{equation}\label{eq1}
+e=mc^2
+\end{equation}$$
