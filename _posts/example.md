@@ -14,7 +14,7 @@ categories: template
 ##### 五级标题
 ###### 六级标题
 ```
-#2. 分割线  
+# 2. 分割线  
 
 ```markdown
 ***
@@ -23,7 +23,7 @@ ___
 
 ```
 
-#3. 链接  
+# 3. 链接  
 ##行内式  
 ```markdown
 [sunnypiggy的github](https://github.com/sunnypiggggy 'float title')
@@ -43,7 +43,7 @@ github链接 [github][1], blog链接[blog][2]
 [2]:https://blog.sunnypiggy.host/  
 ```
 
-#4. 列表
+# 4. 列表
 
 - AAAA
 - BBBB
@@ -55,7 +55,7 @@ github链接 [github][1], blog链接[blog][2]
 - CCCC
 ```
 
-#5. 引用  
+# 5. 引用  
 ```markdown
 >example
 >>example
@@ -65,7 +65,7 @@ github链接 [github][1], blog链接[blog][2]
 >>example
 >>>example
 
-#6. 图片  
+# 6. 图片  
 
 ```markdown
 
@@ -86,16 +86,16 @@ github链接 [github][1], blog链接[blog][2]
 ![avatar][3]
 
 [3]:../uploads/avatar.png
-#7. 代码  
+# 7. 代码  
 
 ```python
 print('shit happens!!')
 ```
 
-#8. 
+# 8. 
 
 
-#9. 注解  
+# 9. 注解  
 引用 [^quote1] 引用 [^quote2] 引用3 [^Xe]
 
 [^quote1]: AAAA
