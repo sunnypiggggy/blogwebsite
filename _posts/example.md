@@ -3,6 +3,7 @@ title: example
 date: 2020-10-27 08:12:43
 tags: template
 categories: template
+mathjax: true
 --- 
 
 # 1. 分级标题  
@@ -108,3 +109,6 @@ print('shit happens!!')
 $$\begin{equation}\label{eq1}
 e=mc^2
 \end{equation}$$
+
+
+$a = b + c$.
