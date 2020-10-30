@@ -1,8 +1,8 @@
 ---
 title: example
 date: 2020-10-27 08:12:43
-tags:
-categories: example
+tags: template
+categories: template
 --- 
 
 # 1. 分级标题
