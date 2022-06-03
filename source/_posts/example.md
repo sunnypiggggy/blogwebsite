@@ -76,17 +76,17 @@ github链接 [github][1], blog链接[blog][2]
 图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加
 ```
 
-![avatar](../uploads/avatar.png 'beautiful girl')
+![avatar]( ../uploads/avatar.png "'beautiful girl'")
 ---
 ```markdown
 ![avatar][3]
 
-[3]:../uploads/avatar.png
+[3]: ../uploads/avatar.png
 ```
 
 ![avatar][3]
 
-[3]:../uploads/avatar.png
+[3]: ../uploads/avatar.png
 # 7. 代码  
 
 ```python
@@ -107,9 +107,9 @@ print('shit happens!!')
 
 <http://detexify.kirelabs.org/classify.html>  
 
-$$\begin{equation}\label{eq1}
-e=mc^2
-\end{equation}$$
+$$
+E=mc^2
+$$
 
 
 $a = b + c$.

@@ -103,3 +103,9 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+#post:
+#  math:
+#    enable: true
+#    specific: false
+#    engine: mathjax
