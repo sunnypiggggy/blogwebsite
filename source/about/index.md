@@ -1,6 +1,6 @@
 ---
-title: About
-date: 2020-10-26 23:38:43
+title: about
+layout: about
 ---
 
 # 1. 分级标题  
