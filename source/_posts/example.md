@@ -93,10 +93,8 @@ github链接 [github][1], blog链接[blog][2]
 print('shit happens!!')
 ```
 
-# 8. ssccs
 
-
-# 9. 注解  
+# 8. 注解  
 引用 [^1] 引用 [^2] 引用3 [^Xe]
 
 [^1]: AAAA
