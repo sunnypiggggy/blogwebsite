@@ -3,6 +3,7 @@ title: docker-compose优雅部署hexo
 mathjax: true
 date: 2022-06-04 17:31:18
 tags:
+comments: true
 ---
 
 简单介绍下使用docker-compose搭建caddy2 + hexo 博客站点，利用Github的webhook功能，实现自动化部署。 
