@@ -104,8 +104,12 @@ theme: fluid
 deploy:
   type: ''
 
-#post:
-#  math:
-#    enable: true
-#    specific: false
-#    engine: mathjax
+watermark:
+    enable: true
+    textEnable: true
+    rotate: 0
+    gravity: southeast
+    text: Sunnypiggy.xyz
+    directory:
+        - posts
+        - uploads
